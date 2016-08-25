@@ -1,0 +1,4 @@
+var Module = {
+  ENVIRONMENT: 'WEB',
+  TOTAL_MEMORY: 167772160
+};
